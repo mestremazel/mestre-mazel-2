@@ -1,0 +1,44 @@
+
+{
+  "short_name": "Mestre Mazel",
+  "name": "Tarot do Mestre Mazel",
+  "description": "Uma experiência completa de leitura de Tarô com Mestre Mazel. Cartas, interpretações e previsões.",
+  "lang": "pt-BR",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "theme_color": "#0f0518",
+  "background_color": "#0f0518",
+  "orientation": "portrait",
+  "scope": "./",
+  "categories": ["lifestyle", "entertainment"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3602/3602058.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3602/3602058.png",
+      "type": "image/png",
+      "sizes": "512x512",
+      "purpose": "any maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1634907868840-75d564df0899?q=80&w=1080&h=1920&fit=crop",
+      "sizes": "1080x1920",
+      "type": "image/jpeg",
+      "form_factor": "narrow",
+      "label": "Tela Principal do Tarot"
+    },
+    {
+      "src": "https://images.unsplash.com/photo-1534083262604-54c30d31c65d?q=80&w=1920&h=1080&fit=crop",
+      "sizes": "1920x1080",
+      "type": "image/jpeg",
+      "form_factor": "wide",
+      "label": "Leitura de Cartas"
+    }
+  ]
+}
